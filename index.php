@@ -8,7 +8,7 @@
     <title>CHÀO MỪNG</title>
 </head>
 <body>
-    <h2>Chào mừng đến với trang web của tôi!!!</h2>
+    <h2>Chào mừng đến với trang web của tôi!!! WELLCOME!!!</h2>
 
 </body>
 </html>
